@@ -957,7 +957,15 @@
 /* Banner */
 
 	#banner {
-		background: url("images/overlay.png"), url("../images/banner.jpg");
+		/*
+		file:///home/albert/Descargas/etycCentral/IMG_20191017_203431.jpg
+		.blueish {
+  			box-shadow: inset 2000px 0 0 0 rgba(0, 125, 255, 0.5);
+  			border-color: rgba(0, 125, 255, 1);
+		}
+		 */
+		background: url("images/overlay.png"), url("https://drive.google.com/uc?id=1a-9_tGiqm_Qclqj2mXleZq-rY8qh1O-s");
+		box-shadow: inset 2000px 0 0 0 rgba(32, 34, 56, 0.5);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
